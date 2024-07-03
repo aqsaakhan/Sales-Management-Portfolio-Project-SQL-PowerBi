@@ -1,1 +1,1 @@
-# aqsaakhan-Sales-Management-Portfolio-Project-SQL-PowerBi
+Sales-Management-Portfolio-Project-SQL-PowerBi
